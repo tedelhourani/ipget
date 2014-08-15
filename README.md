@@ -7,4 +7,4 @@ The script is run as a daemon on any machine sitting behind the NAT. It periodic
 
 To use this script simply copy it to your server and run it using "./ipget.py start", or add it to the list of daemons that are automatically started at boot time.
 
-Send a message to yourself with subject line "iprequest" and empty body. A respone must arrive shortly afterwards with the requested IP address in the subject line.
+Send a message to yourself with subject line "iprequest" and empty body. A response must arrive shortly afterwards with the requested IP address in the subject line.
